@@ -1,2 +1,2 @@
 # Coba
-ini adalah percobaan github
+ini adalah percobaan github!
